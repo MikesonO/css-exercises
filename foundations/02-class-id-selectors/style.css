@@ -3,13 +3,13 @@
   font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
+.number3{
+  font-size: 24px;
+}
+
 #number2{
   color: rgb(15, 0, 255);
   font-size: 36px;
-}
-
-.number3{
-  font-size: 24px;
 }
 
 #number4{
